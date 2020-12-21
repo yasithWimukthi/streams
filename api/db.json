@@ -16,6 +16,12 @@
       "description": "stream 3",
       "userId": null,
       "id": 3
+    },
+    {
+      "title": "my stream 4",
+      "description": "stream 4",
+      "userId": null,
+      "id": 4
     }
   ]
 }
