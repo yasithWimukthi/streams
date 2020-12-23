@@ -7,7 +7,8 @@ const Modal = (props) => {
             <div className="ui standard modal visible active">
 
             </div>
-        </div>
+        </div>,
+        document.querySelector('#modal')
     )
 }
 
